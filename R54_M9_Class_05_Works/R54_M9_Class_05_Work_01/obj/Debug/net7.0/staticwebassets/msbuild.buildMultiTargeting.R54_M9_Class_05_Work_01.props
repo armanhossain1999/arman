@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\R54_M9_Class_05_Work_01.props" />
+</Project>
